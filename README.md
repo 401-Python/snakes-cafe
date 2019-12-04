@@ -3,7 +3,7 @@
 ### Author: Alvian Joseph
 
 ### Links and Resources
-* [PR](https://github.com/401-Python/snakes-cafe/pull/1)
+* [PR](https://github.com/401-Python/snakes-cafe/pull/2)
 * [![Build Status](https://www.travis-ci.com/alvian-401-advanced-javascript/lab-13-bearer-auth.svg?branch=master)](https://www.travis-ci.com/alvian-401-advanced-javascript/lab-13-bearer-auth)
 * [front end]()
 
